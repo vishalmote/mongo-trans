@@ -18,5 +18,5 @@
             "Coolsam\\": "src/Coolsam/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
