@@ -1,0 +1,22 @@
+{
+    "name": "vishal/mongo-trans",
+    "description": "Mongo-Db Transaction implementation",
+    "type": "library",
+    "require": {
+        "jenssegers/mongodb": "^3.9",
+        "predis/predis": "^1.1"
+    },
+    "license": "\"MIT\"",
+    "authors": [
+        {
+            "name": "Vishal Mote",
+            "email": "vishalmote@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Coolsam\\": "src/Coolsam/"
+        }
+    },
+    "minimum-stability": "stable"
+}
